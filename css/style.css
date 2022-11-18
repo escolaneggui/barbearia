@@ -6,10 +6,7 @@ nav li {
   text-transform: uppercase;
   margin: 0, 25px, 0, 25px;
   padding-right: 5%;
-
 }
-
-
 nav{
  width: 940px;
   
@@ -20,12 +17,9 @@ nav a{
   text-decoration: none;
   color: brown;
 }
-
-
 #banner {
 	width: 100%;
 }
-
 body{
    
   background: grey;
