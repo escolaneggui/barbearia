@@ -9,16 +9,21 @@ nav li {
 }
 nav{
  width: 940px;
-  
-}
+  }
 nav a{
   font-weight: lighter;
   font-size: 35px;
   text-decoration: none;
   color: brown;
 }
+nav a:hover {
+  color: aquamarine;
+  text-decoration: underline;
+}
 #banner {
 	width: 100%;
+}
+}
 }
 body{
    
