@@ -9,9 +9,20 @@ nav li {
 
 }
 
-nav{
 
-}#banner {
+nav{
+ width: 940px;
+  
+}
+nav a{
+  font-weight: lighter;
+  font-size: 35px;
+  text-decoration: none;
+  color: brown;
+}
+
+
+#banner {
 	width: 100%;
 }
 
